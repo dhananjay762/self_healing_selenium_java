@@ -1,1 +1,1 @@
-#Self Healing Selenium (with Java)
+Self Healing Selenium (with Java)
